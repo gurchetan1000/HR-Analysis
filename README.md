@@ -1,5 +1,7 @@
 # HR-Analysis
 
+HR- Analysis using Kaggle dataset using Logistic Regression, Support Vector Classifier, KNN, Random Forest and GaussianNB.
+
 Why are our best and most experienced employees leaving prematurely? Have fun with this database and try to predict which valuable employees will leave next. Fields in the dataset include:
 
 Employee satisfaction level
